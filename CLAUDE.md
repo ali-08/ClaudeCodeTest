@@ -41,4 +41,4 @@ Games use `localStorage` for high score persistence (keys: `shooterHigh`, `shoot
 
 - Repository: https://github.com/ali-08/ClaudeCodeTest
 - Branch: `main`
-- Always commit and push changes after modifications
+- **IMPORTANT**: After every meaningful change (new feature, bug fix, refactor, config update), commit and push to GitHub immediately. Do not let work accumulate uncommitted. Use clean, descriptive commit messages that explain *why* the change was made. This ensures we never lose progress and can easily revert if needed.
